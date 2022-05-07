@@ -1,4 +1,4 @@
-Año;Mes;Dia;Fecha;city_code;product_type;product;destinated_area
+year;month;day;date;city_code;product_type;product;destinated_area
 1974;1;1;1/01/1974;960b4f2c94a2fb2c;temporary;Others;0
 1974;1;1;1/01/1974;746cc42bfb8f6b62;temporary;Others;0
 1974;1;1;1/01/1974;6cce2bf873870afc;temporary;Others;0
